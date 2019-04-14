@@ -1,0 +1,5 @@
+package-as: DBM-CountPack-Overwatch
+enable-nolib-creation: no
+
+move-folders:
+    DBM-CountPack-Overwatch/DBM-CountPack-Overwatch: DBM-CountPack-Overwatch
