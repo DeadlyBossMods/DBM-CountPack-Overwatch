@@ -9,6 +9,6 @@ You might wonder, why concern self with how big the DBM download is. Believe it 
 
 # Installation:
 
-Just install this with Twitch client, or download and unzip and drop the DBM-CountPack-Overwatch folder directly into addons folder and DBM-Core version 7.2.7 or higher will be able to add the counts to countdown drop downs.
+Just install this with your addon client, or download and unzip and drop the DBM-CountPack-Overwatch folder directly into addons folder and DBM-Core version 7.2.7 or higher will be able to add the counts to countdown drop downs.
 
 After that, just select the overwatch files from the countdown drop down menus
